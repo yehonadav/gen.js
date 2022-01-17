@@ -1,6 +1,6 @@
 # GEN JS (currently in a closed beta)
 
-### GEN JS is NEXT JS based ready to go components.  
+### GEN JS is NEXT JS ready to go components.  
 
 With intent of building applications modularly.  
 On one hand enabling a service is as simple as a 1 liner.  
